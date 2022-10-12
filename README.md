@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Steve!
 
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayato1234&show_icons=true&theme=dark)]
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayato1234&show_icons=true&theme=dark)
 
 <!--
 **hayato1234/hayato1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
