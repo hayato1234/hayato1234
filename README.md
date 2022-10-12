@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Steve!
 
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayato1234&show_icons=true&theme=swift)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayato1234&layout=compact&show_icons=true&theme=dark)
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayato1234&show_icons=true&theme=swift)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayato1234&layout=compact&show_icons=true&theme=swift)
 
 
 <!--
